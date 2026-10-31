@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Large files fetched by download_data.py
+data/News_Category_Dataset_v3.json
+data/glove.6B.100d.txt
+data/*.zip
+data/*.part
